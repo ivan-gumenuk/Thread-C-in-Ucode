@@ -1,0 +1,13 @@
+
+.DS_Store
+*.out
+*.exe
+*.swp
+*.o
+._DS_Store
+chat.sqlite
+uchat
+uchat_server
+cjson_lib.a
+uchat_server.log
+liba_sqlite3.a
